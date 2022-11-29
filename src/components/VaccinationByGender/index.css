@@ -1,0 +1,8 @@
+.gendercontainer {
+  background-color: #1c1c2b;
+  width: 90%;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

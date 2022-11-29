@@ -1,0 +1,46 @@
+.maincontainer {
+  background-color: #161625;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+.do {
+  height: 100vh;
+}
+.imgcontainer {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.subcontainer {
+  width: 90%;
+}
+.failure {
+  width: 500px;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.logocontainer {
+  display: flex;
+  align-items: center;
+}
+.heading {
+  margin: 0px;
+  color: aqua;
+}
+.tag {
+}
